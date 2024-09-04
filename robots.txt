@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tak2close.github.io/sitemap/sitemap.txt
